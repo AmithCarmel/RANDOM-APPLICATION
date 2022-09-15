@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "carmello",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
